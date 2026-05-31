@@ -35,5 +35,5 @@ The dashboard processes flat transactional data utilizing the following columns:
 ## 🚀 How to View the Project
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
-<img width="1483" height="835" alt="Screenshot 2026-05-31 153906" src="https://github.com/user-attachments/assets/791f7994-17a9-44ab-a755-f410fd42bb4e" />
+
 
